@@ -1,0 +1,15 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Vadim Rodionov",
+    "classifications": [
+        "Template"
+    ],
+    "identity": "vr/dotnet-template-config",
+    "name": "Template config for .net templates",
+    "shortName": "templateconfig",
+    "sourceName": "TemplateName",
+    "tags": {
+        "type": "item"
+    },
+    "preferNameDirectory": false
+}
