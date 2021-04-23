@@ -1,0 +1,18 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Vadim Rodionov",
+    "classifications": [
+        "Projects",
+        "Console",
+        "NUnit"
+    ],
+    "identity": "vr/cs-lesson-hometask",
+    "name": "Projects for C# Lesson Homework Task",
+    "shortName": "cs-lesson-hometask",
+    "sourceName": "TaskNumber",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "preferNameDirectory": false
+}

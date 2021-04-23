@@ -11,5 +11,14 @@
     "tags": {
         "type": "item"
     },
+    "sources": [
+        {
+            "source": "./",
+            "target": "./",
+            "rename": {
+                "content.template.json": ".template.config"
+            }
+        }
+    ],
     "preferNameDirectory": false
 }

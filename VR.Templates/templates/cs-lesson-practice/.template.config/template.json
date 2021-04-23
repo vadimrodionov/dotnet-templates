@@ -1,0 +1,18 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Vadim Rodionov",
+    "classifications": [
+        "Projects",
+        "Console",
+        "NUnit"
+    ],
+    "identity": "vr/cs-lesson-practice",
+    "name": "Projects for C# Lesson Practice Task",
+    "shortName": "cs-lesson-practice",
+    "sourceName": "TaskNumber",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "preferNameDirectory": false
+}

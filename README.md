@@ -10,6 +10,8 @@ Template packs for `dotnet-new`
 
 - `VR.Templates` - default template pack:
   - `cs-lesson-tasks` - template solution for C# lesson hometasks
+  - `cs-lesson-practice` - template projects for C# lesson practical task and its tests
+  - `cs-lesson-hometask` - template projects for C# lesson homework task and its tests
   - `template-config` - template for `.template.config`
   - *`dotnet-template-pack` - template for template pack*
 - `ITStep.CSharp.Templates` - template pack for ITStep C# course:
