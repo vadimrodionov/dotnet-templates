@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace StudentName.Hometask_01
 {

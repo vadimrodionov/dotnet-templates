@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace Hometask_04_Tests
+namespace StudentName.Hometask__04_Tests
 {
     public class Tests
     {

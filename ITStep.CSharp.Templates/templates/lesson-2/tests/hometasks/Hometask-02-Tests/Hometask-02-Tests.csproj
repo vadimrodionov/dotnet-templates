@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>Hometask_02_Tests</RootNamespace>
+    <RootNamespace>Hometask__02_Tests</RootNamespace>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>
