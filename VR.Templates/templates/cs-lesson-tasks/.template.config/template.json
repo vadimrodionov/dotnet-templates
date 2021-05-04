@@ -8,7 +8,7 @@
     "identity": "vr/cs-lesson-tasks-sln",
     "name": "Solution for C# Lesson Practice Tasks",
     "shortName": "cs-lesson-tasks",
-    "sourceName": "StudentName",
+    "sourceName": "LessonNumber",
     "tags": {
         "language": "C#",
         "type": "project"

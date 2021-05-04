@@ -1,0 +1,9 @@
+Step Computer Academy
+Microsoft .NET Platform and C# Programming Language
+Lesson LessonNumber - <Topic>
+Hometasks: Task 1
+------------------------------------------------------------------------------
+
+<Insert task text here>
+
+------------------------------------------------------------------------------
