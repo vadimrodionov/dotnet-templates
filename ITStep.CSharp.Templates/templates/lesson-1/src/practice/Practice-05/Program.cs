@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StudentName.Practice__05
+namespace StudentName.Practice_05
 {
     class Program
     {

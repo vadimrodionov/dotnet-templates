@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>Practice__04</RootNamespace>
+    <RootNamespace>StudentName.Practice_04</RootNamespace>
   </PropertyGroup>
 
 </Project>
