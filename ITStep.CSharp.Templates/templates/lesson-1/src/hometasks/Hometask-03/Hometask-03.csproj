@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>Hometask__03</RootNamespace>
+    <RootNamespace>StudentName.Hometask_03</RootNamespace>
   </PropertyGroup>
 
 </Project>

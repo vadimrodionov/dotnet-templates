@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StudentName.Hometask__03
+namespace StudentName.Hometask_03
 {
     class Program
     {
