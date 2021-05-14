@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StudentName.Practice_TaskNumber
+namespace StudentName.PracticeTaskNumber
 {
     class Program
     {
