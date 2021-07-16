@@ -20,6 +20,6 @@ Template packs for `dotnet-new`
   - `itstep-cs-lesson3` - template solution for lesson 3 tasks
   - `itstep-cs-lesson4` - template solution for lesson 4 tasks
   - `itstep-cs-lesson5` - template solution for lesson 5 tasks
-  - *`itstep-cs-lesson6` - template solution for lesson 6 tasks*
+  - `itstep-cs-lesson6` - template solution for lesson 6 tasks
   - *`itstep-cs-lesson7` - template solution for lesson 7 tasks*
   - *`itstep-cs-lesson8` - template solution for lesson 8 tasks*

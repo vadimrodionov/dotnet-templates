@@ -1,0 +1,17 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Vadim Rodionov",
+    "classifications": [
+        "Solution",
+        "Console"
+    ],
+    "identity": "itstep/cs-lesson6-tasks-sln",
+    "name": "Solution for Lesson 6 Practice Tasks of ITStep's C# course",
+    "shortName": "itstep-cs-lesson6",
+    "sourceName": "StudentName",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "preferNameDirectory": false
+}
